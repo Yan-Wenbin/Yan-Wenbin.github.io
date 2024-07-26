@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Nothing yet...
+I am currently pursuing my second year of master's studies at Paris Dauphine University-PSL, with a strong interest in topics related to complex systems, active particles, stochastic control, Lévy Process, and mean field game theory.
 
-Please download my [CV](files/CV.pdf) here
+Please download my [CV](files/CV.pdf) here or directly [check it online](https://yan-wenbin.github.io/cv) here.
