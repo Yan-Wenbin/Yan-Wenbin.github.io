@@ -5,7 +5,7 @@ permalink: /publication/2024-06-15-Macroscopic modeling of social crowds
 excerpt: 'This paper introduces a novel approach by explicitly incorporating an “activity” variable into the modeling framework, which represents the evolving psychological states of pedestrians and is linked to crowd dynamics.'
 date: 2024-06-15
 venue: 'Mathematical Models and Methods in Applied Sciences'
-paperurl: 'https://www.worldscientific.com/doi/epdf/10.1142/S0218202524400086'
+paperurl: 'https://www.worldscientific.com/doi/10.1142/S0218202524400098'
 citation: 'Gibelli, L., Knopoff, D., Liao, J., & Yan, W. (2024). Macroscopic modeling of social crowds. Mathematical Models and Methods in Applied Sciences.'
 ---
 
