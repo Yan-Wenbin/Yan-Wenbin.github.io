@@ -1,7 +1,7 @@
 ---
 title: "Kinetic modeling of a leader–follower system in crowd evacuation with collective learning"
 collection: publications
-permalink: /publication/2023-05-Kinetic modeling of a leader–follower system in crowd evacuation with collective learning
+permalink: /publication/2023-05-01-Kinetic modeling of a leader–follower system in crowd evacuation with collective learning
 excerpt: 'A kinetic modeling of crowd evacuation with leaders and followers is considered in this paper.'
 date: 2023-05-01
 venue: 'Mathematical Models and Methods in Applied Sciences'
