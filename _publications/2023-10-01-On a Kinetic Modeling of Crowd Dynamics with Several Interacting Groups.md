@@ -1,12 +1,12 @@
 ---
-title: "On a Kinetic Modeling of Crowd Dynamics with Several Interacting Groups"
+title: "Paper Title Number 4"
 collection: publications
-permalink: /publication/2023-10-01-On a Kinetic Modeling of Crowd Dynamics with Several Interacting Groups
-excerpt: 'The present chapter reviews the kinetic modeling of crowd dynamics with several interacting groups.'
-date: 2023-10-01
-venue: 'Crowd Dynamics, Volume 4'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-46359-4_8'
-citation: 'Liao, J., Meng, H., Ren, Y. A., & Yan, W. (2023). On a Kinetic Modeling of Crowd Dynamics with Several Interacting Groups. Crowd Dynamics, Volume 4: Analytics and Human Factors in Crowd Modeling, 201-222.'
+permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: 'This paper is about fixing template issue #693.'
+date: 2024-02-17
+venue: 'GitHub Journal of Bugs'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-The kinetic modeling approach can be applied effectively to model collective behavior of human crowds. The present chapter reviews the kinetic modeling of crowd dynamics with several interacting groups. Some interesting features and phenomena of group dynamics in crowd motions are shown by several numerical tests.
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
