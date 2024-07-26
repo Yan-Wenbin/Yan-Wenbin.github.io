@@ -1,9 +1,9 @@
 ---
 title: "Kinetic modeling of a leader–follower system in crowd evacuation with collective learning"
 collection: publications
-permalink: /publication/2023-05-01-Kinetic modeling of a leader–follower system in crowd evacuation with collective learning
+permalink: /publication/2023-05-10-Kinetic modeling of a leader–follower system in crowd evacuation with collective learning
 excerpt: 'A kinetic modeling of crowd evacuation with leaders and followers is considered in this paper.'
-date: 2023-05-01
+date: 2023-05-10
 venue: 'Mathematical Models and Methods in Applied Sciences'
 paperurl: 'https://www.worldscientific.com/doi/epdf/10.1142/S0218202523500240'
 citation: 'Liao, J., Ren, Y. A., & Yan, W. (2023). Kinetic modeling of a leader–follower system in crowd evacuation with collective learning. Mathematical Models and Methods in Applied Sciences, 33(05), 1099-1117.'
