@@ -5,7 +5,6 @@ permalink: /publication/2023-05-Kinetic modeling of a leader–follower system i
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-05
 venue: 'Mathematical Models and Methods in Applied Sciences'
-slidesurl: 
 paperurl: 'https://www.worldscientific.com/doi/epdf/10.1142/S0218202523500240'
 citation: 'Liao, J., Ren, Y. A., & Yan, W. (2023). Kinetic modeling of a leader–follower system in crowd evacuation with collective learning. Mathematical Models and Methods in Applied Sciences, 33(05), 1099-1117.'
 ---
