@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Master 2 in France, Paris Dauphine University-PSL, 2024-
-* Master 1 in France, École Polytechnique, 2023-2024
-* Bachelor in China, East China University of Science and Technology, 2019-2023
+* Master 2 in Applied and Theoretical Mathematics, Paris Dauphine University-PSL, France, 2024-
+* Master 1 in Applied Mathematics and Statistics, École Polytechnique, France, 2023-2024
+* Bachelor in Mathematics and Applied Mathematics, East China University of Science and Technology, China, 2019-2023
 
 Research experience
 ======
